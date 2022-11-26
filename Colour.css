@@ -1,0 +1,32 @@
+
+.body
+{
+    background-image: url('https://media.istockphoto.com/id/937025540/photo/abstract-green-defocused-background-nature.jpg?s=612x612&w=0&k=20&c=JLOahkBQo_69Xmbc7n9KLOHZvGLXTtdwCeqmN6g-3Hs=');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h
+{
+    font-style: oblique;
+    padding-top: 75px;
+    text-align: center;
+    font-size: 70px;
+    color: black;
+}
+.select
+{
+    height: 10px;
+    width: 500px;
+    padding-bottom: 100px;
+}
+.drop {
+  width: 300px;
+  border: 2px solid black;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  padding-bottom: 200px;
+}
+
+
+
